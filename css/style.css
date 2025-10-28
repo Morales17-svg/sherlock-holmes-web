@@ -1,0 +1,27 @@
+body {
+  background-color: #111;
+  color: #eee;
+  font-family: 'Times New Roman', serif;
+}
+
+#scene-img {
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.choice-btn {
+  margin: 10px;
+  padding: 10px 25px;
+  font-size: 1.1rem;
+  border-radius: 10px;
+}
+
+.typewriter {
+  border-right: 2px solid #fff;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  0%, 50% { border-color: transparent; }
+  51%, 100% { border-color: #fff; }
+}
