@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "intro": {
             img: "img/escena1.png",
             music: "misterio.mp3",
-            text: "Una noche envuelta en neblina asfixiante sobre Baker Street. El aire muerde, y el carillón del Big Ben parece latir con una cadencia lúgubre, anunciando la medianoche. El sello del Ministerio brilla, ominoso, en la cera de un sobre lacrado. El misterio aguarda, pesado y frío.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ¿Aceptarás el caso, Mi querida Estefania?",
+            text: "Una noche envuelta en neblina asfixiante sobre Baker Street. El aire muerde, y el carillón del Big Ben parece latir con una cadencia lúgubre, anunciando la medianoche. El sello del Ministerio brilla, ominoso, en la cera de un sobre lacrado. El misterio aguarda, pesado y frío. ¿Aceptarás el caso, Mi querida Estefania?",
             choices: [
                 { text: "Aceptar el caso", next: "rutaElegir" },
                 { text: "Rechazar y descansar", next: "finNegativo" }
